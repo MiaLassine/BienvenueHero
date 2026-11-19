@@ -1,4 +1,8 @@
-﻿namespace bienvenue_hero;
+﻿//Programme : Bienvenue Hero
+//Creator : Mia Lassine 107B
+//Date : 19/11/2026
+
+namespace bienvenue_hero;
 
 /*
     CONSIGNES

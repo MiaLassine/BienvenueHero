@@ -13,9 +13,9 @@ namespace bienvenue_hero;
 */
 class Program
 {
-    void AfficherBienvenue()
+    static void AfficherBienvenue()
     {
-        Console.WriteLine("bienvenue dans votre aventure héros !");
+        Console.WriteLine("Bienvenue dans votre aventure héros !");
     }
     static void Main(string[] args)
     {

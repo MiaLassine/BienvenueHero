@@ -1,4 +1,4 @@
-﻿//Programme : Bienvenue Hero
+﻿//Programme : Bienvenue Héros !
 //Creator : Mia Lassine 107B
 //Date : 19/11/2026
 
@@ -13,8 +13,12 @@ namespace bienvenue_hero;
 */
 class Program
 {
+    void AfficherBienvenue()
+    {
+        Console.WriteLine("bienvenue dans votre aventure héros !");
+    }
     static void Main(string[] args)
     {
-        
+        AfficherBienvenue();
     }
 }
